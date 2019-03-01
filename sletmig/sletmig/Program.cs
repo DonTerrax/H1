@@ -10,6 +10,7 @@ namespace sletmig
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
