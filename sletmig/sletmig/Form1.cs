@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace sletmig
 {
-    class Program
+    class Form1
     {
-        static void Main(string[] args)
-        {
-            
-        }
-        
     }
 }
