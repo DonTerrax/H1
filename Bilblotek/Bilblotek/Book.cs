@@ -101,7 +101,14 @@ namespace Bilblotek
 
         public static Stack<object>AddTobockStack()
         {
+            
             return Bookstack;
+        }
+
+        public static Stack<object> AddToUserStack(int userChoice)
+        {
+            
+            return UserStack;
         }
     }
 }
