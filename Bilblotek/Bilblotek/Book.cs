@@ -170,7 +170,13 @@ namespace Bilblotek
         //Adds a book to the list and removes it from the stack
         public void ReturnBook()
         {
-            bookList.Add(userStack.Pop());
+            return Bookstack;
+        }
+
+        public static Stack<object> AddToUserStack(int userChoice)
+        {
+            
+            return UserStack;
         }
     }
 }
