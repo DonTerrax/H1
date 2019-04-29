@@ -15,7 +15,7 @@ namespace Bilblotek
         private string genre;
         private string author;
         private int publishYear;
-        private sbyte id;
+        private sbyte id;   
         #endregion
 
         #region get/set
