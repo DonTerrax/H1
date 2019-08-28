@@ -20,7 +20,7 @@ namespace celciusomregner
             Reamur = Celcius * 0.8;
             Fahrenheit = Celcius * 1.8 + 32;
 
-            Console.WriteLine("Fahrenheit = {0} Reamur = {1}",Fahrenheit,Reamur);
+            Console.WriteLine("Fahrenheit = {0} \nReamur = {1}",Fahrenheit,Reamur);
             Console.ReadKey();
 
 
