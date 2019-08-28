@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+
 
 namespace Udemy_arrays
 {
@@ -6,14 +8,12 @@ namespace Udemy_arrays
     {
         static void Main(string[] args)
         {
-            int[,] array2D = new int[,]
-            {
-                {1, 2, 3},
-                {4, 5, 6},
-                {7, 8, 9}
-            };
-
-            Console.WriteLine("Central value is {0}",array2D[2,0]);
+            Post post1 = new Post("Thanks for the birthday wishes",true,"Mike Madsen");
+            Console.WriteLine(post1.ToString());
         }
+
+       
+
+       
     }
 }

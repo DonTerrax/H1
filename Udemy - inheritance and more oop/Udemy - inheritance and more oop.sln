@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy - inheritance and more oop", "Udemy - inheritance and more oop\Udemy - inheritance and more oop.csproj", "{CDCC9278-56A3-469D-8660-AF283F769434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCC9278-56A3-469D-8660-AF283F769434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCC9278-56A3-469D-8660-AF283F769434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCC9278-56A3-469D-8660-AF283F769434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCC9278-56A3-469D-8660-AF283F769434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58E7F2E-88EA-4BDE-B3F8-1DB955B01539}
+	EndGlobalSection
+EndGlobal
