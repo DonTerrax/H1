@@ -9,6 +9,7 @@ namespace Project_Euler_problem_1
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             int sum1 = 0;

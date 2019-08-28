@@ -19,7 +19,7 @@ namespace Bilblotek
         #endregion
 
         #region get/set
-
+        
         public string Name
         {
             get
